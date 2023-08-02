@@ -2,7 +2,8 @@
 
 ## CodeChef Club of MITAOE - Hiring 2023 
 
-[![MITAOE](logo-link.png)](website-link)
+### Live Site: ([website-link](https://codechef-miatoe-hiring-2023.onrender.com/))
+### Live Site: ([website-link](http://codechefmitaoehiring2023.s3-website-us-east-1.amazonaws.com/))
 
 This repository contains the source code for the Hiring page of the CodeChef Club of MITAOE website. Our team of passionate coders developed this page to streamline the process of onboarding new members to our community. 
 
