@@ -1,8 +1,6 @@
-Sure, I can help you draft a README file for your hiring page. This is just a draft and you can edit it to suit your needs better.
 
----
 
-# CodeChef Club of MITAOE - Hiring Page 
+## CodeChef Club of MITAOE - Hiring 2023 
 
 [![MITAOE](logo-link.png)](website-link)
 
